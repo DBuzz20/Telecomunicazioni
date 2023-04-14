@@ -1,5 +1,7 @@
 # Telecomunicazioni
-Homework per il corso di "Telecomunicazioni" presso "Sapienza" Università di Roma.
+Homework per il corso di "Telecomunicazioni"
+
+Corso di laurea in "Ingegneria Informatica e Automatica", "Sapienza" Università di Roma.
 
 ## Descrizione
 Gli homework sono svolti analizzando e testando delle reti create mediante l'utilizzo del framework `Kathara`.
