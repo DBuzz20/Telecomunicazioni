@@ -7,7 +7,7 @@ Kathara è un emulatore di reti open source, basato sui `container Docker` che p
 
 Per il controllo del traffico e dei pacchetti sulla rete simulata è stato usato il packet sniffer `Wireshark`.
 
-In ciascuno dei tre homework sono presenti:
+In ciascuna delle due cartelle degli homework sono presenti:
 * la traccia dell'homework assegnato
 * il report richiesto
 * la cartella contenente il laboratorio che simula la rete in analisi
